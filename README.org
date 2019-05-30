@@ -44,4 +44,4 @@ This package contains python-django.el
   python-django.el is free software under the GPL v3, see LICENSE file
   for details.
 * Note
-  This is a (hopefully) up to date of the elpa package that will be compatible with django versions to come.
+  This is a (hopefully) up to date fork of the elpa package that will be compatible with django versions to come.
